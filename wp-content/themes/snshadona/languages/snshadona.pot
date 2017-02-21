@@ -1,0 +1,3457 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: snshadona\n"
+"POT-Creation-Date: 2016-10-04 08:34+0700\n"
+"PO-Revision-Date: 2016-10-04 08:34+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#: 404.php:21
+msgid "Enter the key words"
+msgstr ""
+
+#: author-bio.php:10 content-search.php:156
+#: framework/tpl/posts/post-masonry.php:138 framework/tpl/posts/post.php:133
+#: framework/tpl/posts/post2.php:155 framework/tpl/posts/related_post.php:26
+#: framework/tpl/single/single.php:123
+#, php-format
+msgid "<a class=\"author-link\" href=\"%s\" ref=\"author\">%s</a>"
+msgstr ""
+
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:14
+msgid "Name *"
+msgstr ""
+
+#: comments.php:15
+msgid "E-Mail *"
+msgstr ""
+
+#: comments.php:16
+msgid "Your website"
+msgstr ""
+
+#: comments.php:21
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:22
+msgid "Your comment *"
+msgstr ""
+
+#: comments.php:23
+msgid "Submit comment"
+msgstr ""
+
+#: comments.php:24
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:24
+msgid " Required fields are marked "
+msgstr ""
+
+#: comments.php:35
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:35
+msgid "(1) Comment"
+msgstr ""
+
+#: comments.php:35 framework/tpl/posts/post-masonry.php:177
+#: framework/tpl/posts/post.php:174 framework/tpl/posts/post2.php:191
+msgid " Comments"
+msgstr ""
+
+#: content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-search.php:133 framework/tpl/posts/post-masonry.php:121
+#: framework/tpl/posts/post.php:116 framework/tpl/posts/post2.php:135
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: content-search.php:149 framework/tpl/posts/post-masonry.php:133
+#: framework/tpl/posts/post.php:128 framework/tpl/posts/post2.php:150
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-search.php:155 framework/tpl/posts/post-masonry.php:137
+#: framework/tpl/posts/post.php:132 framework/tpl/posts/post2.php:154
+#: framework/tpl/posts/related_post.php:25 framework/tpl/single/single.php:122
+msgid "By "
+msgstr ""
+
+#: content-search.php:182 framework/tpl/posts/post-masonry.php:167
+#: framework/tpl/posts/post.php:164 framework/tpl/posts/post2.php:183
+#: framework/tpl/single/single.php:113 functions.php:716 image.php:82
+msgid "Edit"
+msgstr ""
+
+#: content-search.php:187 framework/tpl/posts/post.php:181
+#: framework/tpl/posts/post2.php:227
+msgid "Tags: "
+msgstr ""
+
+#: content-search.php:201 framework/tpl/posts/post-masonry.php:197
+#: framework/tpl/posts/post.php:197 framework/tpl/posts/post2.php:210
+msgid "Read More"
+msgstr ""
+
+#: content-search.php:208 framework/tpl/posts/post-masonry.php:204
+#: framework/tpl/posts/post.php:204 framework/tpl/posts/post2.php:217
+#: framework/tpl/single/single.php:136 woocommerce/loop/pagination.php:21
+msgid "Pages:"
+msgstr ""
+
+#: content-search.php:217 framework/sns-widgets.php:895
+#: framework/tpl/posts/post-masonry.php:213 framework/tpl/posts/post.php:213
+#: framework/tpl/posts/post2.php:236 vc_templates/sns_latest_posts.php:57
+#: vc_templates/sns_posts.php:25
+msgid "Read more"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:393
+#: framework/class-tgm-plugin-activation.php:915
+#: framework/class-tgm-plugin-activation.php:2621
+#: framework/class-tgm-plugin-activation.php:3668
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:394
+#: framework/class-tgm-plugin-activation.php:3247
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:395
+#: framework/class-tgm-plugin-activation.php:3040
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1022
+#: framework/class-tgm-plugin-activation.php:1025
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1025
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1209
+#: framework/class-tgm-plugin-activation.php:3036
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2361
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2364
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2380
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2383
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2386
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2403
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2407
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2409
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2415
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2418
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2421
+msgid "Update recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2430
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2476
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2480
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2484
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2488
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2570
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2578
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2586
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2598
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2621
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2635
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2636
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2637
+#: framework/sns-woocomerce.php:438 framework/sns-woocomerce.php:562
+#: vc_extend/extend-vc.php:232
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2641
+msgid "Version"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2642
+msgid "Status"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2691
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2702
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2772
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2805
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2811
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2814
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2845
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2847
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2888
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2890
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2996
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3022
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3246
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3595
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3597
+#: framework/class-tgm-plugin-activation.php:3605
+msgid "Show Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3597
+#: framework/class-tgm-plugin-activation.php:3605
+msgid "Hide Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3598
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3600
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3603
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3606
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/mega-menu/admin.php:43
+msgid "sub item"
+msgstr ""
+
+#: framework/mega-menu/admin.php:59
+msgid "Move up"
+msgstr ""
+
+#: framework/mega-menu/admin.php:74
+msgid "Move down"
+msgstr ""
+
+#: framework/mega-menu/admin.php:76 framework/mega-menu/admin.php:78
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/mega-menu/admin.php:87
+msgid "URL"
+msgstr ""
+
+#: framework/mega-menu/admin.php:94
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/mega-menu/admin.php:100
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/mega-menu/admin.php:107
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/mega-menu/admin.php:112
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/mega-menu/admin.php:118
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/mega-menu/admin.php:124 vc_extend/extend-vc.php:954
+msgid "Description"
+msgstr ""
+
+#: framework/mega-menu/admin.php:126
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/mega-menu/admin.php:133
+msgid "Menu Item's Icon"
+msgstr ""
+
+#: framework/mega-menu/admin.php:145
+msgid "Select Icon"
+msgstr ""
+
+#: framework/mega-menu/admin.php:146
+msgid "Remove Icon"
+msgstr ""
+
+#: framework/mega-menu/admin.php:152
+msgid "Enable Mega Menu(Apply for level 1)"
+msgstr ""
+
+#: framework/mega-menu/admin.php:159
+msgid "Menu Style"
+msgstr ""
+
+#: framework/mega-menu/admin.php:160
+msgid ""
+"Select style for Menu. Preview Mode style MUST BE one of the following type: "
+"Product Categories and Product Tags."
+msgstr ""
+
+#: framework/mega-menu/admin.php:163
+msgid "List Style"
+msgstr ""
+
+#: framework/mega-menu/admin.php:164
+msgid "Columns Style"
+msgstr ""
+
+#: framework/mega-menu/admin.php:165
+msgid "Preview Mode"
+msgstr ""
+
+#: framework/mega-menu/admin.php:173
+msgid "Display Siebar in Menu"
+msgstr ""
+
+#: framework/mega-menu/admin.php:176
+msgid "Select Menu Sidebar..."
+msgstr ""
+
+#: framework/mega-menu/admin.php:177 functions.php:151
+msgid "Menu Sidebar #1"
+msgstr ""
+
+#: framework/mega-menu/admin.php:178 functions.php:161
+msgid "Menu Sidebar #2"
+msgstr ""
+
+#: framework/mega-menu/admin.php:186
+msgid "Background Image"
+msgstr ""
+
+#: framework/mega-menu/admin.php:193
+msgid "Select Background"
+msgstr ""
+
+#: framework/mega-menu/admin.php:194
+msgid "Remove Background"
+msgstr ""
+
+#: framework/mega-menu/admin.php:200
+msgid "Custom Columns Style (Enter custom CSS - Apply for this colums)"
+msgstr ""
+
+#: framework/mega-menu/admin.php:208
+msgid "Hide Title(Apply for level 2 Mega Menu Columns Style)"
+msgstr ""
+
+#: framework/mega-menu/admin.php:227
+msgid "Remove"
+msgstr ""
+
+#: framework/mega-menu/admin.php:228
+msgid "Cancel"
+msgstr ""
+
+#: framework/mega-menu/frontend.php:58
+msgid "on sale"
+msgstr ""
+
+#: framework/plugins-need-active.php:7
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/plugins-need-active.php:12
+msgid "Meta Box"
+msgstr ""
+
+#: framework/plugins-need-active.php:19
+msgid "Slider Revolution"
+msgstr ""
+
+#: framework/plugins-need-active.php:27
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: framework/plugins-need-active.php:35
+msgid "SNS Posttype"
+msgstr ""
+
+#: framework/plugins-need-active.php:43
+msgid "WooCommerce - excelling eCommerce"
+msgstr ""
+
+#: framework/plugins-need-active.php:50
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: framework/plugins-need-active.php:57
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: framework/plugins-need-active.php:64
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: framework/plugins-need-active.php:71
+msgid "YITH WooCommerce Ajax Product Filter"
+msgstr ""
+
+#: framework/plugins-need-active.php:78
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/plugins-need-active.php:85
+msgid "Image Widget"
+msgstr ""
+
+#: framework/sns-functions.php:94
+msgid "Load More"
+msgstr ""
+
+#: framework/sns-functions.php:124
+msgctxt "Previous post link"
+msgid "Previous post"
+msgstr ""
+
+#: framework/sns-functions.php:139
+msgctxt "Next post link"
+msgid "Next post"
+msgstr ""
+
+#: framework/sns-metabox.php:64
+msgid "Product Config"
+msgstr ""
+
+#: framework/sns-metabox.php:77 framework/sns-options.php:409 functions.php:229
+msgid "Product Sidebar"
+msgstr ""
+
+#: framework/sns-metabox.php:82 framework/sns-metabox.php:94
+#: framework/sns-woocomerce.php:295 framework/sns-woocomerce.php:372
+#: vc_extend/extend-vc.php:1205 vc_extend/extend-vc.php:1461
+msgid "Default"
+msgstr ""
+
+#: framework/sns-metabox.php:83 framework/sns-metabox.php:138
+#: framework/sns-metabox.php:226 framework/sns-metabox.php:236
+#: framework/sns-metabox.php:254 framework/sns-metabox.php:265
+#: framework/sns-metabox.php:275 framework/sns-metabox.php:292
+#: framework/sns-metabox.php:303 framework/sns-metabox.php:319
+#: framework/sns-widgets.php:572 framework/sns-widgets.php:985
+#: vc_extend/extend-vc.php:8 vc_extend/extend-vc.php:263
+#: vc_extend/extend-vc.php:1013 vc_extend/extend-vc.php:1021
+#: vc_extend/extend-vc.php:1031 vc_extend/extend-vc.php:1108
+#: vc_extend/extend-vc.php:1116 vc_extend/extend-vc.php:1126
+#: vc_extend/extend-vc.php:1195 vc_extend/extend-vc.php:1416
+msgid "No"
+msgstr ""
+
+#: framework/sns-metabox.php:84 framework/sns-metabox.php:137
+#: framework/sns-metabox.php:225 framework/sns-metabox.php:235
+#: framework/sns-metabox.php:253 framework/sns-metabox.php:264
+#: framework/sns-metabox.php:274 framework/sns-metabox.php:291
+#: framework/sns-metabox.php:302 framework/sns-metabox.php:318
+#: framework/sns-widgets.php:571 framework/sns-widgets.php:984
+#: vc_extend/extend-vc.php:262 vc_extend/extend-vc.php:1012
+#: vc_extend/extend-vc.php:1020 vc_extend/extend-vc.php:1030
+#: vc_extend/extend-vc.php:1107 vc_extend/extend-vc.php:1115
+#: vc_extend/extend-vc.php:1125 vc_extend/extend-vc.php:1194
+#: vc_extend/extend-vc.php:1415
+msgid "Yes"
+msgstr ""
+
+#: framework/sns-metabox.php:86
+msgid "Product page with Sidebar. Select \"Default\" to use in Theme Options."
+msgstr ""
+
+#: framework/sns-metabox.php:89
+msgid "Cloud Zoom"
+msgstr ""
+
+#: framework/sns-metabox.php:95
+msgid "window"
+msgstr ""
+
+#: framework/sns-metabox.php:96
+msgid "lens"
+msgstr ""
+
+#: framework/sns-metabox.php:97 framework/sns-options.php:800
+msgid "Inner"
+msgstr ""
+
+#: framework/sns-metabox.php:103
+msgid "Product Video"
+msgstr ""
+
+#: framework/sns-metabox.php:107
+msgid "Enter your video url(youtube, video)"
+msgstr ""
+
+#: framework/sns-metabox.php:119
+msgid "Layout Config"
+msgstr ""
+
+#: framework/sns-metabox.php:133
+msgid "Config layout for this page"
+msgstr ""
+
+#: framework/sns-metabox.php:141
+msgid "Sellect Yes if you want config layout for this page"
+msgstr ""
+
+#: framework/sns-metabox.php:145
+msgid "Layout Type"
+msgstr ""
+
+#: framework/sns-metabox.php:150 framework/sns-options.php:424
+msgid "Without Sidebar"
+msgstr ""
+
+#: framework/sns-metabox.php:151 framework/sns-options.php:428
+msgid "Use Left Sidebar"
+msgstr ""
+
+#: framework/sns-metabox.php:152 framework/sns-options.php:432
+msgid "Use Right Sidebar"
+msgstr ""
+
+#: framework/sns-metabox.php:158
+msgid "--- Select a layout type ---"
+msgstr ""
+
+#: framework/sns-metabox.php:162 framework/sns-options.php:444
+#: framework/sns-woocomerce.php:286 framework/sns-woocomerce.php:360
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/sns-metabox.php:169 framework/sns-metabox.php:180
+msgid "--- Select a sidebar ---"
+msgstr ""
+
+#: framework/sns-metabox.php:173 framework/sns-options.php:454
+#: framework/sns-woocomerce.php:287 framework/sns-woocomerce.php:361
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/sns-metabox.php:187
+msgid "Default Menu..."
+msgstr ""
+
+#: framework/sns-metabox.php:197
+msgid "Page Config"
+msgstr ""
+
+#: framework/sns-metabox.php:210 framework/sns-options.php:310
+msgid "Header Style"
+msgstr ""
+
+#: framework/sns-metabox.php:215 framework/sns-options.php:313
+msgid "Solid"
+msgstr ""
+
+#: framework/sns-metabox.php:216 framework/sns-options.php:314
+msgid "Transparent"
+msgstr ""
+
+#: framework/sns-metabox.php:221 framework/sns-options.php:322
+msgid "Show Top Policy"
+msgstr ""
+
+#: framework/sns-metabox.php:231 framework/sns-options.php:200
+msgid "Use extran screen"
+msgstr ""
+
+#: framework/sns-metabox.php:239
+msgid "Select yes if you want to content full-screen"
+msgstr ""
+
+#: framework/sns-metabox.php:242 framework/sns-options.php:338
+msgid "Logo"
+msgstr ""
+
+#: framework/sns-metabox.php:246
+msgid "It priority more in theme option"
+msgstr ""
+
+#: framework/sns-metabox.php:249
+msgid "Show Menu"
+msgstr ""
+
+#: framework/sns-metabox.php:260
+msgid "Show Title"
+msgstr ""
+
+#: framework/sns-metabox.php:270
+msgid "Use Slideshow"
+msgstr ""
+
+#: framework/sns-metabox.php:280
+msgid "Select Slideshow"
+msgstr ""
+
+#: framework/sns-metabox.php:287
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: framework/sns-metabox.php:295
+msgid ""
+"Dont apply for Front page. Because breadcrumbs dont sense in Front page."
+msgstr ""
+
+#: framework/sns-metabox.php:298 framework/sns-options.php:370
+msgid "Use Footer Top"
+msgstr ""
+
+#: framework/sns-metabox.php:308 framework/sns-options.php:217
+msgid "Body Background"
+msgstr ""
+
+#: framework/sns-metabox.php:311 framework/sns-metabox.php:327
+msgid "It will priority than Theme Color in Theme Option panel"
+msgstr ""
+
+#: framework/sns-metabox.php:314
+msgid "Config Theme Color for this page?"
+msgstr ""
+
+#: framework/sns-metabox.php:324
+msgid "Sellect Theme Color"
+msgstr ""
+
+#: framework/sns-metabox.php:334
+msgid "Gallery Settings"
+msgstr ""
+
+#: framework/sns-metabox.php:352
+msgid "Featured Video"
+msgstr ""
+
+#: framework/sns-metabox.php:360
+#: woocommerce/single-product/product-image.php:56
+msgid "Video"
+msgstr ""
+
+#: framework/sns-metabox.php:372
+msgid "Featured Audio"
+msgstr ""
+
+#: framework/sns-metabox.php:380
+msgid "Audio"
+msgstr ""
+
+#: framework/sns-metabox.php:392
+msgid "Featured Quote"
+msgstr ""
+
+#: framework/sns-metabox.php:400
+msgid "Quote Content"
+msgstr ""
+
+#: framework/sns-metabox.php:407
+msgid "Quote author"
+msgstr ""
+
+#: framework/sns-metabox.php:413
+msgid "Quote Background Color"
+msgstr ""
+
+#: framework/sns-metabox.php:419
+msgid "Quote Text Color"
+msgstr ""
+
+#: framework/sns-metabox.php:425
+msgid "Quote Text Size"
+msgstr ""
+
+#: framework/sns-metabox.php:431
+msgid "Quote Text Weight"
+msgstr ""
+
+#: framework/sns-metabox.php:435
+msgid "100"
+msgstr ""
+
+#: framework/sns-metabox.php:436
+msgid "200"
+msgstr ""
+
+#: framework/sns-metabox.php:437
+msgid "300"
+msgstr ""
+
+#: framework/sns-metabox.php:438
+msgid "400"
+msgstr ""
+
+#: framework/sns-metabox.php:439
+msgid "500"
+msgstr ""
+
+#: framework/sns-metabox.php:440
+msgid "600"
+msgstr ""
+
+#: framework/sns-metabox.php:441
+msgid "700"
+msgstr ""
+
+#: framework/sns-metabox.php:442
+msgid "900"
+msgstr ""
+
+#: framework/sns-metabox.php:450
+msgid "Link Settings"
+msgstr ""
+
+#: framework/sns-metabox.php:458
+msgid "Link URL"
+msgstr ""
+
+#: framework/sns-metabox.php:465
+msgid "Link Title"
+msgstr ""
+
+#: framework/sns-metabox.php:474
+msgid "Brand Config"
+msgstr ""
+
+#: framework/sns-metabox.php:480
+msgid "Link for brand"
+msgstr ""
+
+#: framework/sns-metabox.php:489
+msgid "Partner Config"
+msgstr ""
+
+#: framework/sns-metabox.php:495
+msgid "Link for partner"
+msgstr ""
+
+#: framework/sns-options.php:40 framework/sns-options.php:41
+msgid "SNS Hadona"
+msgstr ""
+
+#: framework/sns-options.php:82
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/sns-options.php:83 framework/sns-options.php:90
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/sns-options.php:89
+msgid "Theme Information 2"
+msgstr ""
+
+#: framework/sns-options.php:94
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/sns-options.php:161
+msgid "Demo content"
+msgstr ""
+
+#: framework/sns-options.php:186
+msgid "General"
+msgstr ""
+
+#: framework/sns-options.php:193 tpl-cpanel.php:21
+msgid "Theme Color"
+msgstr ""
+
+#: framework/sns-options.php:208
+msgid "Use Boxed Layout"
+msgstr ""
+
+#: framework/sns-options.php:225
+msgid "Body Background Image"
+msgstr ""
+
+#: framework/sns-options.php:227
+msgid "No image"
+msgstr ""
+
+#: framework/sns-options.php:228
+msgid "Pantern"
+msgstr ""
+
+#: framework/sns-options.php:229 vc_extend/extend-vc.php:714
+#: vc_extend/extend-vc.php:805 vc_extend/extend-vc.php:1627
+#: vc_extend/extend-vc.php:1656
+msgid "Image"
+msgstr ""
+
+#: framework/sns-options.php:246
+msgid "Body Background type img"
+msgstr ""
+
+#: framework/sns-options.php:254
+msgid "Body font"
+msgstr ""
+
+#: framework/sns-options.php:271
+msgid "Secondary font"
+msgstr ""
+
+#: framework/sns-options.php:287
+msgid "Secondary font target"
+msgstr ""
+
+#: framework/sns-options.php:303
+msgid "Header"
+msgstr ""
+
+#: framework/sns-options.php:330
+msgid "Header Background Color"
+msgstr ""
+
+#: framework/sns-options.php:339
+msgid ""
+"If this is not selected, This theme will be display logo with \"theme/"
+"snshadona/img/logo.png\""
+msgstr ""
+
+#: framework/sns-options.php:340
+msgid "Image that you want to use as logo"
+msgstr ""
+
+#: framework/sns-options.php:345
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: framework/sns-options.php:346
+msgid "Keep menu on top when scroll down/up"
+msgstr ""
+
+#: framework/sns-options.php:356
+msgid "Footer"
+msgstr ""
+
+#: framework/sns-options.php:363
+msgid "Footer title color"
+msgstr ""
+
+#: framework/sns-options.php:379
+msgid "Footer Top background"
+msgstr ""
+
+#: framework/sns-options.php:385
+msgid "Footer background color"
+msgstr ""
+
+#: framework/sns-options.php:393
+msgid "Payment method's image"
+msgstr ""
+
+#: framework/sns-options.php:399
+msgid "Copyright"
+msgstr ""
+
+#: framework/sns-options.php:400
+msgid "Designed by SNSTheme.Com"
+msgstr ""
+
+#: framework/sns-options.php:407
+msgid "Main Sidebar"
+msgstr ""
+
+#: framework/sns-options.php:408 functions.php:220
+msgid "Home Sidebar"
+msgstr ""
+
+#: framework/sns-options.php:410 functions.php:247
+msgid "Blog Sidebar"
+msgstr ""
+
+#: framework/sns-options.php:411 functions.php:238
+msgid "Woo Sidebar"
+msgstr ""
+
+#: framework/sns-options.php:415
+msgid "Blog"
+msgstr ""
+
+#: framework/sns-options.php:421
+msgid "Default Blog Layout"
+msgstr ""
+
+#: framework/sns-options.php:463 vc_extend/extend-vc.php:1164
+msgid "Blog Style"
+msgstr ""
+
+#: framework/sns-options.php:469 vc_extend/extend-vc.php:1167
+msgid "Blog Layout 1"
+msgstr ""
+
+#: framework/sns-options.php:470 vc_extend/extend-vc.php:1168
+msgid "Blog Layout 2"
+msgstr ""
+
+#: framework/sns-options.php:471 vc_extend/extend-vc.php:1169
+msgid "Masonry"
+msgstr ""
+
+#: framework/sns-options.php:481
+msgid "Show Categories for Blog Entries Page"
+msgstr ""
+
+#: framework/sns-options.php:489
+msgid "Show Date for Blog Entries Page"
+msgstr ""
+
+#: framework/sns-options.php:498
+msgid "Show Author for Blog Entries Page"
+msgstr ""
+
+#: framework/sns-options.php:506
+msgid "Show Tags for Blog Entries Page"
+msgstr ""
+
+#: framework/sns-options.php:514
+msgid "Show Comment Count"
+msgstr ""
+
+#: framework/sns-options.php:522
+msgid "Blog Excerpt Length"
+msgstr ""
+
+#: framework/sns-options.php:528 vc_extend/extend-vc.php:1191
+msgid "Enable Read More Button"
+msgstr ""
+
+#: framework/sns-options.php:536
+msgid "Enable View More Tags"
+msgstr ""
+
+#: framework/sns-options.php:537
+msgid "Apply for widget Tag Cloud to show the number for tags display first."
+msgstr ""
+
+#: framework/sns-options.php:545
+msgid "The number for Tags display first."
+msgstr ""
+
+#: framework/sns-options.php:557
+msgid "Enable Author Info on Post Detail"
+msgstr ""
+
+#: framework/sns-options.php:565
+msgid "Enable Related Posts on Post Detail"
+msgstr ""
+
+#: framework/sns-options.php:572
+msgid "Related Post By"
+msgstr ""
+
+#: framework/sns-options.php:573
+msgid "Get related post by Categories or Tags"
+msgstr ""
+
+#: framework/sns-options.php:586
+msgid "Related Posts Number"
+msgstr ""
+
+#: framework/sns-options.php:593
+msgid "Enable Share Box on Post Detail"
+msgstr ""
+
+#: framework/sns-options.php:601
+msgid "Show Facebook in Sharing Box"
+msgstr ""
+
+#: framework/sns-options.php:608
+msgid "Show Twitter in Sharing Box"
+msgstr ""
+
+#: framework/sns-options.php:615
+msgid "Show G + in Sharing Box"
+msgstr ""
+
+#: framework/sns-options.php:622
+msgid "Show Linkedin in Sharing Box"
+msgstr ""
+
+#: framework/sns-options.php:629
+msgid "Show Pinterest in Sharing Box"
+msgstr ""
+
+#: framework/sns-options.php:636
+msgid "Show Tumblr in Sharing Box"
+msgstr ""
+
+#: framework/sns-options.php:643
+msgid "Show Send Email in Sharing Box"
+msgstr ""
+
+#: framework/sns-options.php:649 vc_extend/extend-vc.php:1202
+msgid "Page Navigation"
+msgstr ""
+
+#: framework/sns-options.php:650
+msgid "Choose Type of navigation for blog and any listing page."
+msgstr ""
+
+#: framework/sns-options.php:655
+msgid "Default PageNavi"
+msgstr ""
+
+#: framework/sns-options.php:656 vc_extend/extend-vc.php:1206
+msgid "Ajax"
+msgstr ""
+
+#: framework/sns-options.php:666
+msgid "Page Not Found"
+msgstr ""
+
+#: framework/sns-options.php:672 framework/sns-widgets.php:1126
+#: vc_extend/extend-vc.php:224 vc_extend/extend-vc.php:404
+#: vc_extend/extend-vc.php:637 vc_extend/extend-vc.php:941
+#: vc_extend/extend-vc.php:990 vc_extend/extend-vc.php:1089
+#: vc_extend/extend-vc.php:1230 vc_extend/extend-vc.php:1309
+#: vc_extend/extend-vc.php:1395 vc_extend/extend-vc.php:1619
+msgid "Title"
+msgstr ""
+
+#: framework/sns-options.php:673
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: framework/sns-options.php:678 vc_extend/extend-vc.php:773
+#: vc_extend/extend-vc.php:977 vc_extend/extend-vc.php:1083
+#: vc_extend/extend-vc.php:1150 vc_extend/extend-vc.php:1224
+#: vc_extend/extend-vc.php:1303 vc_extend/extend-vc.php:1382
+#: vc_extend/extend-vc.php:1448 vc_extend/extend-vc.php:1531
+#: vc_extend/extend-vc.php:1608 vc_extend/extend-vc.php:1651
+msgid "Content"
+msgstr ""
+
+#: framework/sns-options.php:679
+msgid ""
+"Sory but the page you are looking for does not exit, have been removed or "
+"name changed. Go back Homepage or enter the key words to search, please!"
+msgstr ""
+
+#: framework/sns-options.php:687
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/sns-options.php:693
+msgid "Use lazyload for Product Image"
+msgstr ""
+
+#: framework/sns-options.php:701
+msgid "Default mode view for listing page"
+msgstr ""
+
+#: framework/sns-options.php:703 vc_extend/extend-vc.php:415
+#: woocommerce/loop/modeview.php:13 woocommerce/loop/modeview.php:14
+msgid "Grid"
+msgstr ""
+
+#: framework/sns-options.php:704 framework/sns-options.php:738
+#: framework/sns-woocomerce.php:313 framework/sns-woocomerce.php:395
+#: vc_extend/extend-vc.php:252 woocommerce/loop/modeview.php:18
+#: woocommerce/loop/modeview.php:19
+msgid "List"
+msgstr ""
+
+#: framework/sns-options.php:705 woocommerce/loop/modeview.php:23
+#: woocommerce/loop/modeview.php:24
+msgid "List Table"
+msgstr ""
+
+#: framework/sns-options.php:712 framework/sns-woocomerce.php:293
+#: framework/sns-woocomerce.php:369
+msgid "Grid columns"
+msgstr ""
+
+#: framework/sns-options.php:713
+msgid "We are using grid bootstap - 12 cols layout"
+msgstr ""
+
+#: framework/sns-options.php:727 framework/sns-woocomerce.php:305
+#: framework/sns-woocomerce.php:385
+msgid "Number products per listing page"
+msgstr ""
+
+#: framework/sns-options.php:733 framework/sns-woocomerce.php:310
+#: framework/sns-woocomerce.php:391
+msgid "On Sale Products"
+msgstr ""
+
+#: framework/sns-options.php:734
+msgid "Slect layout for On Sale Products shown in archive page."
+msgstr ""
+
+#: framework/sns-options.php:737 framework/sns-woocomerce.php:312
+#: framework/sns-woocomerce.php:394 vc_extend/extend-vc.php:251
+#: vc_extend/extend-vc.php:416
+msgid "Carousel"
+msgstr ""
+
+#: framework/sns-options.php:744 framework/sns-woocomerce.php:319
+#: framework/sns-woocomerce.php:403
+msgid "On Sale Limit"
+msgstr ""
+
+#: framework/sns-options.php:745 framework/sns-woocomerce.php:321
+#: framework/sns-woocomerce.php:406
+msgid "Number of On Sale Products to query."
+msgstr ""
+
+#: framework/sns-options.php:751 framework/sns-woocomerce.php:992
+msgid "Custom block"
+msgstr ""
+
+#: framework/sns-options.php:753
+msgid "Some HTML is allowed in here: a,img,p,br,em,strong."
+msgstr ""
+
+#: framework/sns-options.php:780
+msgid "Show Single Product Sidebar"
+msgstr ""
+
+#: framework/sns-options.php:788
+msgid "Enable Cloud Zoom for Product Image"
+msgstr ""
+
+#: framework/sns-options.php:796
+msgid "Zoom Type for Cloud Zoom"
+msgstr ""
+
+#: framework/sns-options.php:798
+msgid "Window"
+msgstr ""
+
+#: framework/sns-options.php:799
+msgid "Lens"
+msgstr ""
+
+#: framework/sns-options.php:808
+msgid "Enable Share box"
+msgstr ""
+
+#: framework/sns-options.php:816
+msgid "Enable Upsells Products"
+msgstr ""
+
+#: framework/sns-options.php:824
+msgid "Enable Related Products"
+msgstr ""
+
+#: framework/sns-options.php:832
+msgid "Number Related Products to display"
+msgstr ""
+
+#: framework/sns-options.php:842
+msgid "Advance"
+msgstr ""
+
+#: framework/sns-options.php:848
+msgid "Enable Tooltip"
+msgstr ""
+
+#: framework/sns-options.php:856
+msgid "Enable Cpanel"
+msgstr ""
+
+#: framework/sns-options.php:864
+msgid "Enable Button Scroll To Top"
+msgstr ""
+
+#: framework/sns-options.php:872
+msgid "SCSS Compile"
+msgstr ""
+
+#: framework/sns-options.php:874
+msgid "Only compile when don't have the css file"
+msgstr ""
+
+#: framework/sns-options.php:875
+msgid "Alway compile"
+msgstr ""
+
+#: framework/sns-options.php:882
+msgid "CSS Format"
+msgstr ""
+
+#: framework/sns-options.php:884
+msgid "scss_formatter"
+msgstr ""
+
+#: framework/sns-options.php:885
+msgid "scss_formatter_nested"
+msgstr ""
+
+#: framework/sns-options.php:886
+msgid "scss_formatter_compressed"
+msgstr ""
+
+#: framework/sns-options.php:893
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/sns-options.php:894
+msgid "Paste your CSS code here. EX: .class{font-size:13px}"
+msgstr ""
+
+#: framework/sns-options.php:902
+msgid "Custom JS"
+msgstr ""
+
+#: framework/sns-options.php:903
+msgid "Enter your JS code here."
+msgstr ""
+
+#: framework/sns-widgets.php:10
+msgid "SNS - Social Accounts"
+msgstr ""
+
+#: framework/sns-widgets.php:11
+msgid "Display a list of social accounts"
+msgstr ""
+
+#: framework/sns-widgets.php:44
+msgid "Follow us on:"
+msgstr ""
+
+#: framework/sns-widgets.php:95 framework/sns-widgets.php:211
+#: framework/sns-widgets.php:374 framework/sns-widgets.php:566
+#: framework/sns-widgets.php:674 framework/sns-widgets.php:806
+#: framework/sns-widgets.php:962 framework/sns-widgets.php:1079
+#: framework/sns-widgets.php:1389 framework/sns-widgets.php:1470
+#: framework/sns-widgets.php:1659 framework/sns-widgets.php:1813
+msgid "Title:"
+msgstr ""
+
+#: framework/sns-widgets.php:119
+msgid "SNS - About Me"
+msgstr ""
+
+#: framework/sns-widgets.php:120
+msgid "Display author info"
+msgstr ""
+
+#: framework/sns-widgets.php:127
+msgid "About Hadona"
+msgstr ""
+
+#: framework/sns-widgets.php:214
+msgid "About me:"
+msgstr ""
+
+#: framework/sns-widgets.php:215
+msgid "About me content"
+msgstr ""
+
+#: framework/sns-widgets.php:247
+msgid "SNS - Vertical Menu"
+msgstr ""
+
+#: framework/sns-widgets.php:248
+msgid "Add a vertical menu to your sidebar."
+msgstr ""
+
+#: framework/sns-widgets.php:312
+msgid "Please sellect menu for Vertical navigation"
+msgstr ""
+
+#: framework/sns-widgets.php:378
+msgid "Select Menu:"
+msgstr ""
+
+#: framework/sns-widgets.php:380
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: framework/sns-widgets.php:389
+msgid "Background overlay:"
+msgstr ""
+
+#: framework/sns-widgets.php:461
+msgid "SNS - Testimonial"
+msgstr ""
+
+#: framework/sns-widgets.php:462
+msgid "Display Testimonial"
+msgstr ""
+
+#: framework/sns-widgets.php:470
+msgid "Testimonial"
+msgstr ""
+
+#: framework/sns-widgets.php:569 framework/sns-widgets.php:982
+msgid "Autoplay:"
+msgstr ""
+
+#: framework/sns-widgets.php:595
+msgid "SNS - Products"
+msgstr ""
+
+#: framework/sns-widgets.php:596
+msgid "Display products"
+msgstr ""
+
+#: framework/sns-widgets.php:604 framework/sns-widgets.php:844
+msgid "Latest posts"
+msgstr ""
+
+#: framework/sns-widgets.php:677
+msgid "Type:"
+msgstr ""
+
+#: framework/sns-widgets.php:679 vc_extend/extend-vc.php:235
+#: vc_extend/extend-vc.php:364 vc_extend/extend-vc.php:456
+#: vc_extend/extend-vc.php:472
+msgid "Latest Products"
+msgstr ""
+
+#: framework/sns-widgets.php:680 vc_extend/extend-vc.php:236
+#: vc_extend/extend-vc.php:370 vc_extend/extend-vc.php:457
+#: vc_extend/extend-vc.php:473
+msgid "BestSeller Products"
+msgstr ""
+
+#: framework/sns-widgets.php:681 vc_extend/extend-vc.php:237
+#: vc_extend/extend-vc.php:368 vc_extend/extend-vc.php:458
+#: vc_extend/extend-vc.php:474
+msgid "Top Rated Products"
+msgstr ""
+
+#: framework/sns-widgets.php:682 vc_extend/extend-vc.php:238
+#: vc_extend/extend-vc.php:372 vc_extend/extend-vc.php:459
+#: vc_extend/extend-vc.php:475
+msgid "Special Products"
+msgstr ""
+
+#: framework/sns-widgets.php:683 vc_extend/extend-vc.php:239
+#: vc_extend/extend-vc.php:366 vc_extend/extend-vc.php:460
+#: vc_extend/extend-vc.php:476
+msgid "Featured Products"
+msgstr ""
+
+#: framework/sns-widgets.php:684 vc_extend/extend-vc.php:240
+#: vc_extend/extend-vc.php:461 vc_extend/extend-vc.php:477
+msgid "Recent Review"
+msgstr ""
+
+#: framework/sns-widgets.php:689
+msgid "Number of products to show:"
+msgstr ""
+
+#: framework/sns-widgets.php:711
+msgid "SNS - Product Sale Countdown"
+msgstr ""
+
+#: framework/sns-widgets.php:712
+msgid "Display the sale will end at the beginning of the set date."
+msgstr ""
+
+#: framework/sns-widgets.php:720
+msgid "Deal of day"
+msgstr ""
+
+#: framework/sns-widgets.php:741
+msgid "May be the Scheduled Sale End Date of this product is not set."
+msgstr ""
+
+#: framework/sns-widgets.php:763
+msgid "Click here"
+msgstr ""
+
+#: framework/sns-widgets.php:809
+msgid "Product ID:"
+msgstr ""
+
+#: framework/sns-widgets.php:811
+msgid "The ID of the product to get the form Sale Price Date To."
+msgstr ""
+
+#: framework/sns-widgets.php:834
+msgid "SNS - Latest Posts Slider"
+msgstr ""
+
+#: framework/sns-widgets.php:835
+msgid "Display latest posts"
+msgstr ""
+
+#: framework/sns-widgets.php:965
+msgid "Show Author:"
+msgstr ""
+
+#: framework/sns-widgets.php:967 framework/sns-widgets.php:974
+msgid "Show"
+msgstr ""
+
+#: framework/sns-widgets.php:968 framework/sns-widgets.php:975
+msgid "Hide"
+msgstr ""
+
+#: framework/sns-widgets.php:972
+msgid "Show Date:"
+msgstr ""
+
+#: framework/sns-widgets.php:979
+msgid "Number Posts:"
+msgstr ""
+
+#: framework/sns-widgets.php:1002
+msgid "Display your facebook like box"
+msgstr ""
+
+#: framework/sns-widgets.php:1003
+msgid "SNS - Facebook"
+msgstr ""
+
+#: framework/sns-widgets.php:1085
+msgid "Fanpage Name:"
+msgstr ""
+
+#: framework/sns-widgets.php:1119
+msgid "A list of product categories."
+msgstr ""
+
+#: framework/sns-widgets.php:1121
+msgid "SNS - Product Categories"
+msgstr ""
+
+#: framework/sns-widgets.php:1125
+msgid "All Categories"
+msgstr ""
+
+#: framework/sns-widgets.php:1131
+msgid "Order by"
+msgstr ""
+
+#: framework/sns-widgets.php:1133
+msgid "Category Order"
+msgstr ""
+
+#: framework/sns-widgets.php:1134
+msgid "Name"
+msgstr ""
+
+#: framework/sns-widgets.php:1141
+msgid "Show product counts"
+msgstr ""
+
+#: framework/sns-widgets.php:1266
+msgid "No product categories exist."
+msgstr ""
+
+#: framework/sns-widgets.php:1313
+msgid "Display recent posts"
+msgstr ""
+
+#: framework/sns-widgets.php:1314
+msgid "SNS - Recent Post"
+msgstr ""
+
+#: framework/sns-widgets.php:1393
+msgid "Number of items to show:"
+msgstr ""
+
+#: framework/sns-widgets.php:1405
+msgid "SNS - Icon Box"
+msgstr ""
+
+#: framework/sns-widgets.php:1406
+msgid "Display a box with Icon image, Title, Description."
+msgstr ""
+
+#: framework/sns-widgets.php:1413
+msgid "Your Title Here..."
+msgstr ""
+
+#: framework/sns-widgets.php:1473
+msgid "URL:"
+msgstr ""
+
+#: framework/sns-widgets.php:1475
+msgid "External url for Title"
+msgstr ""
+
+#: framework/sns-widgets.php:1478
+msgid "Icon image:"
+msgstr ""
+
+#: framework/sns-widgets.php:1485
+msgid "Description:"
+msgstr ""
+
+#: framework/sns-widgets.php:1531
+msgid "Display your tweets"
+msgstr ""
+
+#: framework/sns-widgets.php:1532
+msgid "SNS - Twitter"
+msgstr ""
+
+#: framework/sns-widgets.php:1573
+msgid "Follow"
+msgstr ""
+
+#: framework/sns-widgets.php:1665
+msgid "Widgets Id:"
+msgstr ""
+
+#: framework/sns-widgets.php:1671
+msgid "Tweets Count:"
+msgstr ""
+
+#: framework/sns-widgets.php:1677
+msgid "Show follow link"
+msgstr ""
+
+#: framework/sns-widgets.php:1681
+msgid "Account Name:"
+msgstr ""
+
+#: framework/sns-widgets.php:1687
+msgid "Show interact link"
+msgstr ""
+
+#: framework/sns-widgets.php:1691 vc_extend/extend-vc.php:1008
+#: vc_extend/extend-vc.php:1103
+msgid "Show date"
+msgstr ""
+
+#: framework/sns-widgets.php:1734
+msgid "Clear all"
+msgstr ""
+
+#: framework/sns-widgets.php:1735
+msgid "Compare"
+msgstr ""
+
+#: framework/sns-widgets.php:1755
+msgid "SNS Text"
+msgstr ""
+
+#: framework/sns-widgets.php:1756
+msgid "Allow set image replace Title and Arbitrary text or HTML in content."
+msgstr ""
+
+#: framework/sns-widgets.php:1816
+msgid "Image URL:"
+msgstr ""
+
+#: framework/sns-widgets.php:1819
+msgid "Content:"
+msgstr ""
+
+#: framework/sns-widgets.php:1822
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: framework/sns-woocomerce.php:269 framework/sns-woocomerce.php:339
+msgid "Slideshow"
+msgstr ""
+
+#: framework/sns-woocomerce.php:278 framework/sns-woocomerce.php:350
+msgid "Select Slideshow."
+msgstr ""
+
+#: framework/sns-woocomerce.php:282 framework/sns-woocomerce.php:355
+msgid "Layout"
+msgstr ""
+
+#: framework/sns-woocomerce.php:284 framework/sns-woocomerce.php:358
+msgid "Default (Layout of Shop page)"
+msgstr ""
+
+#: framework/sns-woocomerce.php:285 framework/sns-woocomerce.php:359
+msgid "Fullwidth"
+msgstr ""
+
+#: framework/sns-woocomerce.php:289 framework/sns-woocomerce.php:364
+msgid "Set the layout fullwidth or has sidebar (Woo Sidebar)."
+msgstr ""
+
+#: framework/sns-woocomerce.php:302 framework/sns-woocomerce.php:381
+msgid ""
+"We are using grid bootstap - 12 cols layout. Default use in Theme Options."
+msgstr ""
+
+#: framework/sns-woocomerce.php:315 framework/sns-woocomerce.php:398
+msgid "Slect layout for On Sale Products shown in this category."
+msgstr ""
+
+#: framework/sns-woocomerce.php:440 framework/sns-woocomerce.php:565
+#: vc_extend/extend-vc.php:1851 vc_extend/extend-vc.php:1897
+msgid "Text"
+msgstr ""
+
+#: framework/sns-woocomerce.php:441 framework/sns-woocomerce.php:448
+#: framework/sns-woocomerce.php:566 framework/sns-woocomerce.php:575
+msgid "Color Picker"
+msgstr ""
+
+#: framework/sns-woocomerce.php:442 framework/sns-woocomerce.php:454
+#: framework/sns-woocomerce.php:567 framework/sns-woocomerce.php:584
+msgid "Color Image"
+msgstr ""
+
+#: framework/sns-woocomerce.php:460 framework/sns-woocomerce.php:592
+msgid "Upload/Add image"
+msgstr ""
+
+#: framework/sns-woocomerce.php:461 framework/sns-woocomerce.php:593
+msgid "Remove image"
+msgstr ""
+
+#: framework/sns-woocomerce.php:715
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: framework/sns-woocomerce.php:716
+msgid "out of 5"
+msgstr ""
+
+#: framework/sns-woocomerce.php:820
+msgid "Countdown time discount"
+msgstr ""
+
+#: framework/sns-woocomerce.php:822 vc_templates/sns_onsale_product.php:86
+#: vc_templates/sns_onsale_product.php:157 woocommerce/vc/item-grid.php:65
+msgid "D:"
+msgstr ""
+
+#: framework/sns-woocomerce.php:823 vc_templates/sns_onsale_product.php:87
+#: vc_templates/sns_onsale_product.php:158 woocommerce/vc/item-grid.php:69
+msgid "H:"
+msgstr ""
+
+#: framework/sns-woocomerce.php:824 vc_templates/sns_onsale_product.php:88
+#: vc_templates/sns_onsale_product.php:159 woocommerce/vc/item-grid.php:73
+msgid "M:"
+msgstr ""
+
+#: framework/sns-woocomerce.php:825 vc_templates/sns_onsale_product.php:89
+#: vc_templates/sns_onsale_product.php:160 woocommerce/vc/item-grid.php:77
+msgid "S"
+msgstr ""
+
+#: framework/sns-woocomerce.php:957
+msgid "Promotion products"
+msgstr ""
+
+#: framework/tpl/posts/post-masonry.php:153 framework/tpl/posts/post.php:149
+#: framework/tpl/posts/post2.php:169
+msgid "Sticky"
+msgstr ""
+
+#: framework/tpl/posts/post-masonry.php:177 framework/tpl/posts/post.php:174
+#: framework/tpl/posts/post2.php:191
+msgid "0 Comments"
+msgstr ""
+
+#: framework/tpl/posts/post-masonry.php:177 framework/tpl/posts/post.php:174
+#: framework/tpl/posts/post2.php:191
+msgid "1 Comment"
+msgstr ""
+
+#: framework/tpl/posts/post-masonry.php:188 framework/tpl/posts/post2.php:201
+#: framework/tpl/single/single.php:117
+msgid "In "
+msgstr ""
+
+#: framework/tpl/posts/post.php:186
+msgid "In: "
+msgstr ""
+
+#: framework/tpl/posts/related_post.php:5
+msgid "Related Post"
+msgstr ""
+
+#: framework/tpl/single/single.php:142 image.php:85 image.php:90
+msgid ", "
+msgstr ""
+
+#: framework/tpl/single/single.php:145
+msgid "Tags:"
+msgstr ""
+
+#: functions.php:69
+msgid "Top navigation"
+msgstr ""
+
+#: functions.php:70
+msgid "Vertical navigation"
+msgstr ""
+
+#: functions.php:71
+msgid "Main navigation"
+msgstr ""
+
+#: functions.php:121
+msgid "Widget Area"
+msgstr ""
+
+#: functions.php:123 functions.php:132
+msgid "These are widgets for the Widget Area."
+msgstr ""
+
+#: functions.php:130
+msgid "Top Policy"
+msgstr ""
+
+#: functions.php:137
+msgid "Footer Top Left"
+msgstr ""
+
+#: functions.php:139 functions.php:146
+msgid "These are widgets for the Footer"
+msgstr ""
+
+#: functions.php:144
+msgid "Footer Top Right"
+msgstr ""
+
+#: functions.php:153
+msgid ""
+"These are widgets for Mega Menu Columns style. This sidebar displayed in the "
+"right of column."
+msgstr ""
+
+#: functions.php:163
+msgid ""
+"These are widgets for Mega Menu Columns style. This sidebar displayed in the "
+"bottom of column."
+msgstr ""
+
+#: functions.php:171
+msgid "Footer Column #1"
+msgstr ""
+
+#: functions.php:173 functions.php:183 functions.php:193 functions.php:203
+#: functions.php:212
+msgid "These are widgets for the Footer."
+msgstr ""
+
+#: functions.php:181
+msgid "Footer Column #2"
+msgstr ""
+
+#: functions.php:191
+msgid "Footer Column #3"
+msgstr ""
+
+#: functions.php:201
+msgid "Footer Column #4"
+msgstr ""
+
+#: functions.php:210
+msgid "Footer Column #5"
+msgstr ""
+
+#: functions.php:396
+msgid "View all tags"
+msgstr ""
+
+#: functions.php:397
+msgid "Hide all tags"
+msgstr ""
+
+#: functions.php:453
+#, php-format
+msgid "All posts by: %s"
+msgstr ""
+
+#: functions.php:465
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: functions.php:477 search.php:79
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:683
+msgid "0 view"
+msgstr ""
+
+#: functions.php:685
+msgid " View"
+msgstr ""
+
+#: functions.php:714
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:717
+msgid "Reply"
+msgstr ""
+
+#: functions.php:722
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: image.php:71
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:71
+msgid "Next Image"
+msgstr ""
+
+#: image.php:87
+msgid "In 2"
+msgstr ""
+
+#: image.php:99
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: searchform.php:3 tpl-head.php:96
+msgid "Search"
+msgstr ""
+
+#: searchform.php:4
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidepage.php:24
+msgid "Shortcodes Demo"
+msgstr ""
+
+#: tpl-breadcrumb.php:10
+msgid "Home"
+msgstr ""
+
+#: tpl-breadcrumb.php:14
+msgid "blog"
+msgstr ""
+
+#: tpl-breadcrumb.php:17
+msgid "shop"
+msgstr ""
+
+#: tpl-breadcrumb.php:149
+msgid "Page"
+msgstr ""
+
+#: tpl-cpanel.php:16
+msgid "Buy Theme Now"
+msgstr ""
+
+#: tpl-cpanel.php:28
+msgid "You can also sellect color codes via admin theme options"
+msgstr ""
+
+#: tpl-cpanel.php:37
+msgid "Always Compile SCSS"
+msgstr ""
+
+#: tpl-cpanel.php:47
+msgid "Enable sticky menu"
+msgstr ""
+
+#: tpl-cpanel.php:57
+msgid "Use boxed Layout"
+msgstr ""
+
+#: tpl-cpanel.php:71
+msgid "Reset Options"
+msgstr ""
+
+#: tpl-cpanel.php:78
+msgid "That is some options to demo for you."
+msgstr ""
+
+#: tpl-footer.php:64
+msgid "Payment method"
+msgstr ""
+
+#: tpl-footer.php:79
+msgid "© 2016 SnsTheme. All Rights Reserved. Developed By SnsTheme"
+msgstr ""
+
+#: tpl-head.php:75 tpl-respmenu.php:28
+msgid "Please sellect menu for Main navigation"
+msgstr ""
+
+#: tpl-head.php:94
+msgid "Enter your keywords..."
+msgstr ""
+
+#: tpl-head.php:107
+msgid "My setting"
+msgstr ""
+
+#: tpl-head.php:108
+msgid "Setting"
+msgstr ""
+
+#: tpl-head.php:118
+msgid "Logout"
+msgstr ""
+
+#: tpl-head.php:124
+msgid "Forgot Password"
+msgstr ""
+
+#: tpl-head.php:137
+msgid "Language:"
+msgstr ""
+
+#: tpl-head.php:141
+msgid "Germany"
+msgstr ""
+
+#: tpl-head.php:142
+msgid "Brazil"
+msgstr ""
+
+#: tpl-head.php:143
+msgid "France"
+msgstr ""
+
+#: tpl-head.php:148
+msgid "Currency :"
+msgstr ""
+
+#: tpl-head.php:151
+msgid "USD"
+msgstr ""
+
+#: tpl-head.php:151
+msgid "$"
+msgstr ""
+
+#: tpl-head.php:152
+msgid "EURO"
+msgstr ""
+
+#: tpl-head.php:152
+msgid "€"
+msgstr ""
+
+#: tpl-head.php:153
+msgid "GBP"
+msgstr ""
+
+#: tpl-head.php:153
+msgid "£"
+msgstr ""
+
+#: tpl-head.php:187
+msgid "item(s)"
+msgstr ""
+
+#: tpl-head.php:187
+msgid "item"
+msgstr ""
+
+#: tpl-head.php:188
+msgid " - "
+msgstr ""
+
+#: tpl-paging.php:27
+msgid "&lt;"
+msgstr ""
+
+#: tpl-paging.php:28
+msgid "&gt;"
+msgstr ""
+
+#: tpl-paging.php:34
+msgid "Posts navigation"
+msgstr ""
+
+#: vc_extend/extend-vc.php:4
+msgid "CSS Animation"
+msgstr ""
+
+#: vc_extend/extend-vc.php:9
+msgid "Top to bottom"
+msgstr ""
+
+#: vc_extend/extend-vc.php:10
+msgid "Bottom to top"
+msgstr ""
+
+#: vc_extend/extend-vc.php:11
+msgid "Left to right"
+msgstr ""
+
+#: vc_extend/extend-vc.php:12
+msgid "Right to left"
+msgstr ""
+
+#: vc_extend/extend-vc.php:13
+msgid "Appear from center"
+msgstr ""
+
+#: vc_extend/extend-vc.php:15
+msgid ""
+"Select type of animation for element to be animated when it \"enters\" the "
+"browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+
+#: vc_extend/extend-vc.php:19
+msgid "Extra class name"
+msgstr ""
+
+#: vc_extend/extend-vc.php:54
+msgid "--Select--"
+msgstr ""
+
+#: vc_extend/extend-vc.php:113 vc_extend/extend-vc.php:140
+#: vc_extend/extend-vc.php:1063
+msgid "-- Select -- "
+msgstr ""
+
+#: vc_extend/extend-vc.php:177
+msgid "SNS Featured Categories"
+msgstr ""
+
+#: vc_extend/extend-vc.php:181 vc_extend/extend-vc.php:211
+#: vc_extend/extend-vc.php:391 vc_extend/extend-vc.php:631
+#: vc_extend/extend-vc.php:681 vc_extend/extend-vc.php:709
+msgid "SNS WooCommerce"
+msgstr ""
+
+#: vc_extend/extend-vc.php:182
+msgid "WooCommerce featured categories"
+msgstr ""
+
+#: vc_extend/extend-vc.php:187
+msgid "The title"
+msgstr ""
+
+#: vc_extend/extend-vc.php:195 vc_extend/extend-vc.php:446
+#: vc_extend/extend-vc.php:736
+msgid "Select Category"
+msgstr ""
+
+#: vc_extend/extend-vc.php:207
+msgid "SNS Products"
+msgstr ""
+
+#: vc_extend/extend-vc.php:212
+msgid "WooCommerce products"
+msgstr ""
+
+#: vc_extend/extend-vc.php:218 vc_extend/extend-vc.php:398
+#: vc_extend/extend-vc.php:984 vc_extend/extend-vc.php:1389
+msgid "Prefix"
+msgstr ""
+
+#: vc_extend/extend-vc.php:227 vc_extend/extend-vc.php:407
+msgid "New Products"
+msgstr ""
+
+#: vc_extend/extend-vc.php:247 vc_extend/extend-vc.php:412
+#: vc_extend/extend-vc.php:784 vc_extend/extend-vc.php:1402
+msgid "Template"
+msgstr ""
+
+#: vc_extend/extend-vc.php:254
+msgid "Select template."
+msgstr ""
+
+#: vc_extend/extend-vc.php:259
+msgid "Show Count Sale"
+msgstr ""
+
+#: vc_extend/extend-vc.php:274 vc_extend/extend-vc.php:579
+msgid "Product number display screen width > 480px"
+msgstr ""
+
+#: vc_extend/extend-vc.php:283 vc_extend/extend-vc.php:588
+msgid "Product number display screen > 768px"
+msgstr ""
+
+#: vc_extend/extend-vc.php:292 vc_extend/extend-vc.php:597
+msgid "Product number display screen > 992px"
+msgstr ""
+
+#: vc_extend/extend-vc.php:300 vc_extend/extend-vc.php:606
+msgid "Product number display screen > 1200px"
+msgstr ""
+
+#: vc_extend/extend-vc.php:308 vc_extend/extend-vc.php:614
+msgid "Product number display screen > 1600px"
+msgstr ""
+
+#: vc_extend/extend-vc.php:316 vc_extend/extend-vc.php:571
+msgid "Product number limit"
+msgstr ""
+
+#: vc_extend/extend-vc.php:368
+msgid "Top Rated"
+msgstr ""
+
+#: vc_extend/extend-vc.php:370
+msgid "Best Seller"
+msgstr ""
+
+#: vc_extend/extend-vc.php:387
+msgid "SNS Product Tabs"
+msgstr ""
+
+#: vc_extend/extend-vc.php:392
+msgid "WooCommerce product tabs"
+msgstr ""
+
+#: vc_extend/extend-vc.php:423
+msgid "Align header"
+msgstr ""
+
+#: vc_extend/extend-vc.php:426 vc_extend/extend-vc.php:933
+#: vc_extend/extend-vc.php:1003 vc_extend/extend-vc.php:1665
+msgid "Center"
+msgstr ""
+
+#: vc_extend/extend-vc.php:427 vc_extend/extend-vc.php:931
+#: vc_extend/extend-vc.php:1001 vc_extend/extend-vc.php:1664
+#: vc_extend/extend-vc.php:1688
+msgid "Left"
+msgstr ""
+
+#: vc_extend/extend-vc.php:428 vc_extend/extend-vc.php:932
+#: vc_extend/extend-vc.php:1002 vc_extend/extend-vc.php:1666
+msgid "Right"
+msgstr ""
+
+#: vc_extend/extend-vc.php:434
+msgid "Tab types"
+msgstr ""
+
+#: vc_extend/extend-vc.php:437 vc_extend/extend-vc.php:1157
+msgid "Categories"
+msgstr ""
+
+#: vc_extend/extend-vc.php:438
+msgid "Order By"
+msgstr ""
+
+#: vc_extend/extend-vc.php:453
+msgid "Order By for all tab"
+msgstr ""
+
+#: vc_extend/extend-vc.php:469
+msgid "Select Order By"
+msgstr ""
+
+#: vc_extend/extend-vc.php:485
+msgid "Category Thumbnail"
+msgstr ""
+
+#: vc_extend/extend-vc.php:488
+msgid "show"
+msgstr ""
+
+#: vc_extend/extend-vc.php:489
+msgid "hide"
+msgstr ""
+
+#: vc_extend/extend-vc.php:492
+msgid "Display Category Title with Tab types is Categories."
+msgstr ""
+
+#: vc_extend/extend-vc.php:497
+msgid "Number Category Thumbnail display screen > 1200px "
+msgstr ""
+
+#: vc_extend/extend-vc.php:505
+msgid "Row"
+msgstr ""
+
+#: vc_extend/extend-vc.php:515
+msgid "Show button load more"
+msgstr ""
+
+#: vc_extend/extend-vc.php:527
+msgid "Column per Row"
+msgstr ""
+
+#: vc_extend/extend-vc.php:535
+msgid "Number product with each click to Load more button"
+msgstr ""
+
+#: vc_extend/extend-vc.php:544
+msgid "Hidden item box"
+msgstr ""
+
+#: vc_extend/extend-vc.php:550
+msgid "Effect for product when click to Load more button"
+msgstr ""
+
+#: vc_extend/extend-vc.php:553
+msgid "zoomOut"
+msgstr ""
+
+#: vc_extend/extend-vc.php:554
+msgid "zoomIn"
+msgstr ""
+
+#: vc_extend/extend-vc.php:555
+msgid "pageRight"
+msgstr ""
+
+#: vc_extend/extend-vc.php:556
+msgid "pageLeft"
+msgstr ""
+
+#: vc_extend/extend-vc.php:557
+msgid "pageTop"
+msgstr ""
+
+#: vc_extend/extend-vc.php:558
+msgid "pageBottom"
+msgstr ""
+
+#: vc_extend/extend-vc.php:559
+msgid "starwars"
+msgstr ""
+
+#: vc_extend/extend-vc.php:560
+msgid "slideBottom"
+msgstr ""
+
+#: vc_extend/extend-vc.php:561
+msgid "slideLeft"
+msgstr ""
+
+#: vc_extend/extend-vc.php:562
+msgid "slideRight"
+msgstr ""
+
+#: vc_extend/extend-vc.php:563
+msgid "bounceIn"
+msgstr ""
+
+#: vc_extend/extend-vc.php:627
+msgid "SNS On sale Products"
+msgstr ""
+
+#: vc_extend/extend-vc.php:632
+msgid "show two onsale products"
+msgstr ""
+
+#: vc_extend/extend-vc.php:636
+msgid "perfect product for you"
+msgstr ""
+
+#: vc_extend/extend-vc.php:644 vc_extend/extend-vc.php:1237
+#: vc_extend/extend-vc.php:1316
+msgid "Background color"
+msgstr ""
+
+#: vc_extend/extend-vc.php:650
+msgid "The first product"
+msgstr ""
+
+#: vc_extend/extend-vc.php:658
+msgid "Second product"
+msgstr ""
+
+#: vc_extend/extend-vc.php:660
+msgid "select product discounts here"
+msgstr ""
+
+#: vc_extend/extend-vc.php:666
+msgid "Excerpt length"
+msgstr ""
+
+#: vc_extend/extend-vc.php:677
+msgid "SNS Product"
+msgstr ""
+
+#: vc_extend/extend-vc.php:682
+msgid "Show a single product"
+msgstr ""
+
+#: vc_extend/extend-vc.php:687
+msgid "Select product"
+msgstr ""
+
+#: vc_extend/extend-vc.php:706
+msgid "SNS Category"
+msgstr ""
+
+#: vc_extend/extend-vc.php:710
+msgid "WooCommerce category"
+msgstr ""
+
+#: vc_extend/extend-vc.php:719
+msgid "Image title"
+msgstr ""
+
+#: vc_extend/extend-vc.php:729 vc_extend/extend-vc.php:1661
+msgid "Image alignment"
+msgstr ""
+
+#: vc_extend/extend-vc.php:742 vc_extend/extend-vc.php:1486
+msgid "Short description"
+msgstr ""
+
+#: vc_extend/extend-vc.php:748
+msgid "Select Products"
+msgstr ""
+
+#: vc_extend/extend-vc.php:766
+msgid "SNS Custom Box"
+msgstr ""
+
+#: vc_extend/extend-vc.php:774
+msgid "Box contain: icon, title, description"
+msgstr ""
+
+#: vc_extend/extend-vc.php:780 vc_extend/extend-vc.php:1404
+msgid "Style 1"
+msgstr ""
+
+#: vc_extend/extend-vc.php:781 vc_extend/extend-vc.php:1405
+msgid "Style 2"
+msgstr ""
+
+#: vc_extend/extend-vc.php:782
+msgid "Style 3"
+msgstr ""
+
+#: vc_extend/extend-vc.php:791
+msgid "Icon library"
+msgstr ""
+
+#: vc_extend/extend-vc.php:793
+msgid "Media"
+msgstr ""
+
+#: vc_extend/extend-vc.php:794
+msgid "Font Awesome"
+msgstr ""
+
+#: vc_extend/extend-vc.php:795
+msgid "Open Iconic"
+msgstr ""
+
+#: vc_extend/extend-vc.php:796
+msgid "Typicons"
+msgstr ""
+
+#: vc_extend/extend-vc.php:797
+msgid "Entypo"
+msgstr ""
+
+#: vc_extend/extend-vc.php:798
+msgid "Linecons"
+msgstr ""
+
+#: vc_extend/extend-vc.php:801
+msgid "Select icon library."
+msgstr ""
+
+#: vc_extend/extend-vc.php:814 vc_extend/extend-vc.php:829
+#: vc_extend/extend-vc.php:845 vc_extend/extend-vc.php:861
+#: vc_extend/extend-vc.php:876
+msgid "Icon"
+msgstr ""
+
+#: vc_extend/extend-vc.php:825 vc_extend/extend-vc.php:841
+#: vc_extend/extend-vc.php:857 vc_extend/extend-vc.php:888
+msgid "Select icon from library."
+msgstr ""
+
+#: vc_extend/extend-vc.php:893
+msgid "Color for icon"
+msgstr ""
+
+#: vc_extend/extend-vc.php:904
+msgid "Background Color for icon"
+msgstr ""
+
+#: vc_extend/extend-vc.php:911
+msgid "Font size for icon"
+msgstr ""
+
+#: vc_extend/extend-vc.php:913 vc_extend/extend-vc.php:1729
+msgid "25px"
+msgstr ""
+
+#: vc_extend/extend-vc.php:918
+msgid "It's font-size for icon you sellected, example: 24px"
+msgstr ""
+
+#: vc_extend/extend-vc.php:923
+msgid "Custom Link"
+msgstr ""
+
+#: vc_extend/extend-vc.php:925
+msgid "Enter the  link. Do't forget to include http:// "
+msgstr ""
+
+#: vc_extend/extend-vc.php:926
+msgid "http://"
+msgstr ""
+
+#: vc_extend/extend-vc.php:935
+msgid "Text align"
+msgstr ""
+
+#: vc_extend/extend-vc.php:943
+msgid "Your Title Here ..."
+msgstr ""
+
+#: vc_extend/extend-vc.php:948
+msgid "Title color"
+msgstr ""
+
+#: vc_extend/extend-vc.php:961
+msgid "Show link"
+msgstr ""
+
+#: vc_extend/extend-vc.php:962
+msgid "read more"
+msgstr ""
+
+#: vc_extend/extend-vc.php:973
+msgid "SNS Latest Posts"
+msgstr ""
+
+#: vc_extend/extend-vc.php:978
+msgid "Show latest posts"
+msgstr ""
+
+#: vc_extend/extend-vc.php:983
+msgid "New our blogs"
+msgstr ""
+
+#: vc_extend/extend-vc.php:992
+msgid "Latest News"
+msgstr ""
+
+#: vc_extend/extend-vc.php:998
+msgid "Text Align"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1023 vc_extend/extend-vc.php:1118
+msgid "Show Author"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1033 vc_extend/extend-vc.php:1128
+msgid "Show buton read more"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1039 vc_extend/extend-vc.php:1134
+msgid "Posts number limit"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1079
+msgid "SNS Posts"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1084
+msgid "Show posts"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1097
+msgid "Select posts"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1146
+msgid "SNS Blog Page"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1151
+msgid "To create blog page with some style"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1158
+msgid "If you dont sellect category, the default is sellected all category"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1176
+msgid "Post per pages"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1183 vc_extend/extend-vc.php:1431
+msgid "Excerpt Length"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1197 vc_extend/extend-vc.php:1208
+msgid "Choose Type of navigation."
+msgstr ""
+
+#: vc_extend/extend-vc.php:1220
+msgid "SNS Our Brand"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1225 vc_extend/extend-vc.php:1304
+msgid "Carousel list brands(image, link)"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1232
+msgid "Our brands"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1243 vc_extend/extend-vc.php:1322
+msgid "Link Target"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1246 vc_extend/extend-vc.php:1325
+msgid "New Windown"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1247 vc_extend/extend-vc.php:1326
+msgid "Same Windown"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1254 vc_extend/extend-vc.php:1333
+msgid "Show Nav"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1266 vc_extend/extend-vc.php:1345
+msgid "Show Paging"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1277
+msgid "Brands number row"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1280 vc_extend/extend-vc.php:1288
+#: vc_extend/extend-vc.php:1359 vc_extend/extend-vc.php:1367
+#: vc_extend/extend-vc.php:1425
+msgid "Numbers display with each page carousel"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1285
+msgid "Brands number display"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1299
+msgid "SNS Our Partner"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1311
+msgid "Our partners"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1356
+msgid "Partners number row"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1364
+msgid "Partners number display"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1378
+msgid "SNS Testimonial"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1383
+msgid "Carousel list testimonial"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1388
+msgid "What client say ?"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1397
+msgid "Testimonials"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1412
+msgid "Show paging"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1422
+msgid "Number Testimonial"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1444
+msgid "SNS Member"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1449
+msgid "Display team member"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1453
+msgid "Avartar"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1458
+msgid "Avartar style"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1462
+msgid "Rounded"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1463
+msgid "Circle"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1469
+msgid "Link to member"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1474
+msgid "Member name"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1480
+msgid "Member role"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1491
+msgid "Twitter link"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1497
+msgid "Facebook link"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1503
+msgid "youtube link"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1509
+msgid "google link"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1515
+msgid "pinterest link"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1527
+msgid "SNS Show Video"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1532
+msgid "Display video"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1537
+msgid "The first part of the title"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1543
+msgid "Title Color"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1552
+msgid "The last part of the title"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1556
+msgid "Enter here if you want to this component of title has other color"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1559
+msgid "Color of the last part"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1568
+msgid "Font size of title"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1571
+msgid "80px"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1576 vc_extend/extend-vc.php:1813
+msgid "Margin bottom"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1579 vc_extend/extend-vc.php:1691
+#: vc_extend/extend-vc.php:1779
+msgid "50px"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1584
+msgid "Button"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1587
+msgid "Watch video"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1591
+msgid "Add video"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1605
+msgid "SNS Key Features"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1622
+msgid "Key Features"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1648
+msgid "SNS Advance Banner"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1652
+msgid "Display advance"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1672
+msgid "Link"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1677
+msgid "Banner content position"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1680
+msgid "Left middle"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1681
+msgid "Center middle"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1682
+msgid "Center top"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1683
+msgid "Center bottom"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1695 vc_extend/extend-vc.php:1702
+msgid "Top"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1698
+msgid "50%"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1708
+msgid "Bottom"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1714
+msgid "Use Sub heading?"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1720
+msgid "Sub heading text"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1726
+msgid "Sub heading font size"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1733
+msgid "Sub heading font weight"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1736 vc_extend/extend-vc.php:1786
+msgid "Normal"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1737 vc_extend/extend-vc.php:1787
+msgid "Bold"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1743
+msgid "Sub heading text transform"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1746 vc_extend/extend-vc.php:1796
+msgid "None"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1747 vc_extend/extend-vc.php:1797
+msgid "Capitalize"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1748 vc_extend/extend-vc.php:1798
+msgid "Uppercase"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1749 vc_extend/extend-vc.php:1799
+msgid "Lowercase"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1750 vc_extend/extend-vc.php:1800
+msgid "Inherit"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1756
+msgid "Sub heading Color"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1764
+msgid "Use Heading?"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1770
+msgid "Heading text"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1776
+msgid "Heading font size"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1783
+msgid "Heading font weight"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1793
+msgid "Heading text transform"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1805
+msgid "Heading Color"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1815
+msgid "5px"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1820
+msgid "Use difference color for first letter?"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1825
+msgid "Color for first letter"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1833
+msgid "Decription"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1838
+msgid "Decription font size"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1840
+msgid "13px"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1844
+msgid "Use button 1?"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1853 vc_extend/extend-vc.php:1899
+msgid "Text on the button"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1858 vc_extend/extend-vc.php:1904
+msgid "Text Color"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1865 vc_extend/extend-vc.php:1911
+msgid "URL (Link)"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1867 vc_extend/extend-vc.php:1913
+msgid "Add link to button."
+msgstr ""
+
+#: vc_extend/extend-vc.php:1873 vc_extend/extend-vc.php:1919
+msgid "Color"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1876 vc_extend/extend-vc.php:1922
+msgid "Select button color."
+msgstr ""
+
+#: vc_extend/extend-vc.php:1881 vc_extend/extend-vc.php:1927
+msgid "Size"
+msgstr ""
+
+#: vc_extend/extend-vc.php:1883 vc_extend/extend-vc.php:1929
+msgid "Select button display size."
+msgstr ""
+
+#: vc_extend/extend-vc.php:1891
+msgid "Use button 2?"
+msgstr ""
+
+#: vc_templates/sns_category.php:52
+msgid "View all products"
+msgstr ""
+
+#: vc_templates/sns_key_feature.php:25
+msgid "View all now"
+msgstr ""
+
+#: vc_templates/sns_latest_posts.php:52
+msgid "By"
+msgstr ""
+
+#: vc_templates/sns_onsale_product.php:104
+#: vc_templates/sns_onsale_product.php:175
+msgid "View detail"
+msgstr ""
+
+#: vc_templates/sns_product.php:52
+msgid "Price just"
+msgstr ""
+
+#: vc_templates/sns_product.php:55
+msgid "Buy now"
+msgstr ""
+
+#: woocommerce.php:73 woocommerce.php:77
+msgid " products"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:24
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:78 woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47 woocommerce/cart/mini-cart.php:54
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:42
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:63
+msgid "Your cart is <span class=\"no-product-item\">0</span> items"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:71
+msgid "Subtotal:"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:76
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:77
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/content-product.php:164 woocommerce/content-product.php:254
+#: woocommerce/content-product.php:255 woocommerce/content-product.php:346
+#: woocommerce/content-product.php:347
+#: woocommerce/single-product/add-to-cart/simple.php:71
+#: woocommerce/single-product/add-to-cart/simple.php:72
+msgid "Add to compare"
+msgstr ""
+
+#: woocommerce/content-product.php:229 woocommerce/content-product.php:319
+msgid "Availability: "
+msgstr ""
+
+#: woocommerce/content-product.php:259 woocommerce/content-product.php:260
+#: woocommerce/content-product.php:351 woocommerce/content-product.php:352
+msgid "Quick view"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:23
+msgid "Qty: "
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:26
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:38
+#, php-format
+msgid "%d item"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:40
+#, php-format
+msgid "Showing %d-%d of %d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:19
+msgid "sale"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:42
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:54
+msgid "Zoom"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:63
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:53
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/tabs/tabs.php:33
+msgid "Custom Tab"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:53
+msgid "Upsell products"
+msgstr ""
+
+#: woocommerce/vc/template-tab.php:47 woocommerce/vc/template-tab.php:50
+msgid "Load more items"
+msgstr ""
+
+#: woocommerce/vc/template-tab.php:48
+msgid "Loading..."
+msgstr ""
+
+#: woocommerce/vc/template-tab.php:49
+msgid "All ready"
+msgstr ""
+
+#: woocommerce/yith-woocommerce-ajax-search.php:18
+msgid "Search for:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "snshadona"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themeforest.net/collections/5409167-wordpress"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Hadona - One Product, WooCommerce WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "snstheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://snstheme.com"
+msgstr ""

@@ -1,0 +1,217 @@
+/***************************************************
+	scss file: assets/scss/theme/_toolbar_list.scss
+		+ Style for toolbar on listing page of WooCommerce
+****************************************************/
+.woocommerce-pagination {
+	margin: 0;
+	line-height:1;
+	> span{
+		height: 22px;
+		min-width: 22px; line-height:22px;
+		display: none;
+    	vertical-align: top;
+	}
+	.page-numbers {
+		margin: 0px; list-style:none; padding: 0; display:inline-block;
+		li { display: inline;
+			> span, > a {
+				height: 30px;
+				width: 30px; line-height: 32px;
+				text-align: center;
+				margin: 0 5px; float: left;
+				display:inline-block;
+				border:1px solid $base-border-color;
+				color: $text;
+				@include border-radius(4px);
+				&:focus,
+				&:hover,
+				&.current{
+					color: #ffffff;
+					background: $color1;
+					border-color: $color1;
+					.fa{
+						color: #fff;
+					}
+				}			
+			}
+			.fa {
+				color: $color;
+				font-size: 1em;
+				height: 22px;
+				line-height: 22px;
+				text-align: center;
+				//width: 16px;
+				margin: 0 0 0 2px;
+			}
+			a.prev{
+				.fa{
+					margin: 0 2px 0 0;
+				}
+			}
+		}
+	}
+}
+
+.toolbar {
+	margin: 0 0 30px;
+	padding: 0;
+	@include clearfix();
+	&.toolbar-top{
+		padding-bottom: 16px;
+		border-bottom: 1px solid $base-border-color;
+	}
+
+	& + .woocommerce-result-count{
+		@media(max-width: $screen-xs-max){
+				display: none;
+			}
+	}
+
+	&.toolbar-bottom{
+		padding-top: 20px;
+		margin-top: 10px;
+		border-top: 1px solid $base-border-color;
+		margin-bottom: 80px; position: relative;
+		text-align: center;
+		.woocommerce-result-count{
+			position:absolute;
+			top: 20px;
+			left: 120px;
+		}
+		
+	}
+	.mode-view {
+		display: block;
+		float: left; padding: 5px 0;
+		margin-bottom: 0px;
+		li {
+			@include inline-block;
+			&.display-title {
+				display: none;
+			}
+			float: left;
+			position: relative;
+			margin-right: 18px;
+			margin-left: -1px;
+			a {
+				display: block;
+				 width: 24px;
+			    height: 19px;
+			    text-align: center;
+			    line-height: 19px;
+				&:before{
+					content: '';
+				    display: inline-block;
+				    width: 24px;
+				    height: 19px;
+				    text-align: center;
+				    line-height: 19px;
+				    position: absolute;
+				    left: 0;
+				    top: 0;
+				}
+				&.grid{
+					&:before{
+						background: url('../img/icon-gird.png') no-repeat left center;
+					}
+					&.active, &:hover{
+						&:before{
+							background: url('../img/icon-gird.png') no-repeat right center;
+						}	
+					}
+				}
+				&.list{
+					&:before{
+						background: url('../img/icon-list.png') no-repeat left center;
+					}
+					&.active, &:hover{
+						&:before{
+							background: url('../img/icon-list.png') no-repeat right center;
+						}	
+					}
+				}
+				&.list-table{
+					&:before{
+						background: url('../img/icon-list-table.png') no-repeat left center;
+					}
+					&.active, &:hover{
+						&:before{
+							background: url('../img/icon-list-table.png') no-repeat right center;
+						}	
+					}
+				}
+				span{ display: none; }	
+			}
+		}
+	}
+	// .nbrItemPage,
+	.woocommerce-ordering {
+		display: block;
+		float: right;
+		padding: 0 0 0 10px;
+		text-align: left;
+		height: 30px;
+		margin: 0 0;
+		@media (max-width: $screen-xs-max) {
+			& {
+				display: none;
+			}
+		}
+		label{margin: 0 5px 0 0;}
+		.orderby-wrap{
+			position: relative;
+			margin:0; padding: 0px;
+			@include transition(all 0.2 ease-in);
+			display: inline-block; line-height: 28px;
+			select.orderby{
+				border: none;
+				appearance: none;
+				-o-appearance: none;
+				-webkit-appearance: none;
+				-moz-appearance: none;
+				padding: 0px 10px;
+				background:#FFF;
+				min-width: 170px;
+				border: 1px solid #ebebeb; height:28px; line-height: 28px;
+			}
+			&:hover,
+			&:focus{
+				border-color: #CCC;
+			}
+			&:before{
+				position: absolute; content: ''; height: 5px; width: 9px; right: 10px; top: 12px;
+				background: url(../img/ico-drop.png) no-repeat left top;
+			}
+		}
+		select{
+			height: 30px;
+			@include border-radius(4px);
+			line-height: 40px;
+			background: #ffffff;
+			color: $text;
+		}
+	}
+	.nbrItemPage {
+		.select, .selector1 {
+			select {
+				width: 65px;
+			}
+		}
+	}
+	.woocommerce-result-count{
+		display: inline-block; margin:0; float: left; line-height: 1;
+		padding: 10px 0 6px;
+		@media(max-width: $screen-sm-max){
+			display: none;
+		}
+	}
+	.woocommerce-pagination {
+		margin: 0;
+	}
+	.product-count {
+		display: none !important;
+	}
+	.showall {
+		display: none;
+	}
+}

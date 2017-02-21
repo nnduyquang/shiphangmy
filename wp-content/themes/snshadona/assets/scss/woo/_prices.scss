@@ -1,0 +1,44 @@
+.price {
+	color: color1;
+	white-space: nowrap;
+	font-size: 100%;
+	> .amount{
+		font-size: 1em;
+		color: $color1;
+		font-weight: bold;
+	}
+
+	del {
+		color: #e85c5c;
+		text-decoration: none;
+		position: relative;
+		&:before {
+			content: '';
+			display: block;
+			width: 100%;
+			height: 1px;
+			background: #ee8f8f;
+			position: absolute;
+			top: 50%;
+			left: 0;
+			@include rotate(0deg);
+		}
+	}
+
+	ins {
+		margin-right: 5px;
+		//float: left;
+		font-size: 1em;
+		color: #7ed250;
+		font-weight: bold;
+		text-decoration: none;
+	}
+
+	.from {
+		font-size: 0.67em;
+		margin: -2px 0 0 0;
+		text-transform: uppercase;
+		color: rgba(desaturate($highlight, 75%), 0.5);
+	}
+
+}
